@@ -12,7 +12,7 @@
 	url = https://github.com/ONLYOFFICE/sdkjs.git
 [submodule "server"]
 	path = server
-	url = https://github.com/ONLYOFFICE/server.git
+	url = https://github.com/ubrabbit/OfficeServer.git
 [submodule "web-apps"]
 	path = web-apps
 	url = https://github.com/ONLYOFFICE/web-apps.git
