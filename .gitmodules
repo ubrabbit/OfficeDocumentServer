@@ -48,7 +48,19 @@
 	url = https://github.com/ONLYOFFICE/plugin-zotero
 [submodule "build_tools"]
 	path = build_tools
-	url = git@github.com:ubrabbit/OfficeBuildTools.git
+	url = https://github.com/ubrabbit/OfficeBuildTools.git
 [submodule "tools"]
 	path = tools
-	url = git@github.com:ubrabbit/OfficeTools.git
+	url = https://github.com/ubrabbit/OfficeTools.git
+[submodule "sdkjs-forms"]
+	path = sdkjs-forms
+	url = https://github.com/ONLYOFFICE/sdkjs-forms.git
+[submodule "document-templates"]
+	path = document-templates
+	url = https://github.com/ONLYOFFICE/document-templates.git
+[submodule "document-server-integration"]
+	path = document-server-integration
+	url = https://github.com/ONLYOFFICE/document-server-integration.git
+[submodule "onlyoffice.github.io"]
+	path = onlyoffice.github.io
+	url = https://github.com/ONLYOFFICE/onlyoffice.github.io.git
