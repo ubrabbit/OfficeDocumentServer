@@ -1,0 +1,4 @@
+django==3.1.13
+requests==2.25.0
+pyjwt
+python-magic
