@@ -41,6 +41,7 @@ ErrorExit "执行 make 失败！"
 make install
 ErrorExit "执行 make install 失败！"
 
-export PATH=$PATH:${HOME}/python3/${SOURCE_VERSION}/bin
+sudo unlink /usr/bin/python3
+sudo ln -s ${HOME}/python3/${SOURCE_VERSION}/bin/python3 /usr/bin/python3
 sudo apt-get -y install python3-pip
-python3 -m pip install --upgrade pip
+sudo python3 -m pip install --upgrade pip
