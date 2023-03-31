@@ -64,3 +64,6 @@
 [submodule "onlyoffice.github.io"]
 	path = onlyoffice.github.io
 	url = https://github.com/ONLYOFFICE/onlyoffice.github.io.git
+[submodule "www"]
+	path = www
+	url = git@github.com:ubrabbit/OfficeDocumentWWW.git
